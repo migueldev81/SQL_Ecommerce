@@ -1,5 +1,7 @@
 # SQL - Sales
-![Drag Racing](./sales.png)
+[Image](https://raw.githubusercontent.com/migueldev81/SQL_Ecommerce/main/sales.png)
+
+![db](./sales.png)
 
 ## Get all users 
 ```
